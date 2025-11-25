@@ -12,7 +12,7 @@ agriculture tools including:
 
 ---
 
-## 💡 Features
+##  Features
 
 ### 1. Authentication
 - Email/password login
@@ -48,7 +48,7 @@ Displays marketplace of all posted crops with:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |------|------------|
@@ -60,7 +60,7 @@ Displays marketplace of all posted crops with:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 app/
 ├── ui/
 │ ├── LoginScreen.kt
@@ -79,7 +79,7 @@ app/
 
 ---
 
-## 🚀 Installation
+## Installation
 
 1. Clone the project  
    `git clone https://github.com/yourusername/E-Agribusiness-App.git`
@@ -97,7 +97,7 @@ app/
 
 ---
 
-## 📦 Signed APK
+## Signed APK
 
 The signed APK is located under:
 
@@ -109,20 +109,14 @@ Create keystore → Sign → Finish
 
 ---
 
-## 📹 Demo Video Script
-
-See `demo_video_script.txt` in the repo.
-
----
-
-## 📄 Project Report
+##  Project Report
 
 See `PROJECT_REPORT.pdf` for methodology, architecture, screenshots,
 implementation, challenges, and future improvements.
 
 ---
 
-## 👤 Author
+## Author
 Jackson Mamboleo  
 E-Agribusiness App Developer  
 2025
